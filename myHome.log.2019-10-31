@@ -1,0 +1,57 @@
+2019-10-30 00:41:42 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinov@outlook.comugurla login oldu
+2019-10-30 10:17:33 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 14:33:25 ERROR MyHomeAuthenticationFailureHandler:23 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:33:46 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinov@outlook.comugurla login oldu
+2019-10-30 14:38:53 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 14:39:03 ERROR MyHomeAuthenticationFailureHandler:23 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:39:12 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 14:39:50 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinov@outlook.comugurla login oldu
+2019-10-30 14:46:01 ERROR MyHomeAuthenticationFailureHandler:23 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:47:01 ERROR MyHomeAuthenticationFailureHandler:23 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:53:43 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:55:01 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:55:57 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 14:58:56 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:02:48 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:06:11 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:08:52 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:17:49 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:18:31 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:19:24 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:21:01 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:22:07 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = User is disabled
+2019-10-30 15:22:42 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-30 15:22:56 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-30 15:24:32 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-30 15:26:23 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-30 15:26:38 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-30 15:27:00 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 15:40:51 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 15:43:32 ERROR MyHomeAuthenticationFailureHandler:24 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-30 15:43:40 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 15:45:21 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinov@outlook.comugurla login oldu
+2019-10-30 15:46:02 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 15:57:58 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 16:00:57 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 16:11:29 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-30 17:42:20 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinov@outlook.comugurla login oldu
+2019-10-31 11:57:33 ERROR MyHomeAuthenticationFailureHandler:22 - User login olarken xeta bas verdi,sebeb = Bad credentials
+2019-10-31 11:57:41 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-31 13:59:46 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-31 14:06:10 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-31 14:08:23 ERROR AdvRepositoryImpl:101 - /home/fuad/Desktop/myhome-images/36
+2019-10-31 14:09:47 ERROR AdvRepositoryImpl:101 - /home/fuad/Desktop/myhome-images/37
+2019-10-31 14:11:10 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-31 14:11:51 INFO  AdvRepositoryImpl:119 - 11 id-li user 38 id-li elan yerlesdirdi
+2019-10-31 14:13:11 INFO  AdvRepositoryImpl:119 - 11 id-li user 39 id-li elan yerlesdirdi
+2019-10-31 14:13:17 INFO  AdvRepositoryImpl:119 - 11 id-li user 40 id-li elan yerlesdirdi
+2019-10-31 14:13:23 INFO  AdvRepositoryImpl:119 - 11 id-li user 41 id-li elan yerlesdirdi
+2019-10-31 14:13:27 INFO  AdvRepositoryImpl:119 - 11 id-li user 42 id-li elan yerlesdirdi
+2019-10-31 14:13:34 INFO  AdvRepositoryImpl:119 - 11 id-li user 43 id-li elan yerlesdirdi
+2019-10-31 14:13:38 INFO  AdvRepositoryImpl:119 - 11 id-li user 44 id-li elan yerlesdirdi
+2019-10-31 14:13:44 INFO  AdvRepositoryImpl:119 - 11 id-li user 45 id-li elan yerlesdirdi
+2019-10-31 14:13:49 INFO  AdvRepositoryImpl:119 - 11 id-li user 46 id-li elan yerlesdirdi
+2019-10-31 14:13:53 INFO  AdvRepositoryImpl:119 - 11 id-li user 47 id-li elan yerlesdirdi
+2019-10-31 14:13:58 INFO  AdvRepositoryImpl:119 - 11 id-li user 48 id-li elan yerlesdirdi
+2019-10-31 19:35:02 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinovv@gmail.comugurla login oldu
+2019-10-31 19:36:45 INFO  MyHomeAuthenticationSuccessHandler:21 - User fuad.shirinov@outlook.comugurla login oldu
